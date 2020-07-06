@@ -41,7 +41,7 @@
     "tablednd": "^1.0.3",
     "tether": "^1.4.7",
     "typeahead.js": "^0.11.1",
-    "url-polyfill": "^1.1.7",
+    "url-polyfill": "^1.1.9",
     "vue": "^2.6.11",
     "vue-resource": "^1.5.1",
     "vue-router": "^2.8.1",
